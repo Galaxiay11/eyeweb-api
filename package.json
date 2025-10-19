@@ -1,0 +1,17 @@
+{
+  "name": "eyeweb-api",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Vercel functions build on deploy'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.46.1",
+    "cookie": "0.6.0",
+    "cors": "2.8.5",
+    "jsonwebtoken": "9.0.2",
+    "bcryptjs": "2.4.3"
+  }
+}

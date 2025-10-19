@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.npm/
+
+# Vercel local
+.vercel/
+
+# Env files (never commit secrets)
+.env
+.env.*
