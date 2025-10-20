@@ -5,6 +5,8 @@ import jwt from 'jsonwebtoken';
 const ALLOWED_ORIGINS = [
   'https://eyewebtest.infinityfree.me',
   'http://eyewebtest.infinityfree.me',
+  'https://www.eyewebtest.infinityfree.me',
+  'http://www.eyewebtest.infinityfree.me',
   'http://localhost:3000',
   'http://127.0.0.1:3000',
   'http://localhost',
